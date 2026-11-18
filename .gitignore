@@ -1,0 +1,3 @@
+
+# local build output (may contain compiled-in credentials)
+BSB_LAN/build/
